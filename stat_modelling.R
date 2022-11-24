@@ -8,7 +8,8 @@ library(wesanderson)
 library(extrafont)
 library(svglite)
 
-setwd("/Volumes/Rosalind/genomic_analysis/Bridget")
+# update working dir
+setwd("")
 
 loadfonts(device = "postscript") 
 
